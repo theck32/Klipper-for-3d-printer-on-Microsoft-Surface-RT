@@ -1,6 +1,6 @@
 # Klipper-for-3d-printer-on-Microsoft-Surface-RT
 
-Donation PayPal jeromest_gelais@hotmail.com
+Don PayPal: jeromest_gelais@hotmail.com
 
 Oublié pas que la surface RT doit être jailbreaké voici le lien du tutoriel :
 
