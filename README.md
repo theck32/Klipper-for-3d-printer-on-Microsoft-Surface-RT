@@ -21,3 +21,7 @@ Guide et klipperRT.img pour installer klipper,moonraker,fluidd,klipperscreen sur
 Redémarrer et c'est terminer!
 
 (Configurer votre printer.cfg dans fluidd)
+
+
+
+Jérôme St-gelais (2022) Don PayPal jeromest_gelais@hotmail.com
