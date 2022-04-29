@@ -1,5 +1,7 @@
 # Klipper-for-3d-printer-on-Microsoft-Surface-RT
 
+Jérôme St-gelais (2022) Donation PayPal jeromest_gelais@hotmail.com
+
 Don't forget that the surface RT must be jailbroken here is the link of the tutorial:
 
 https://jwa4.gitbook.io/windows/tools/surface-rt-and-surface-2-jailbreak-usb
@@ -28,4 +30,4 @@ Restart and you're done!
 
 
 
-Jérôme St-gelais (2022) Donation PayPal jeromest_gelais@hotmail.com
+Jérôme St-gelais (2022)
