@@ -1,5 +1,9 @@
 # Klipper-for-3d-printer-on-Microsoft-Surface-RT
 
+Oublié pas que la surface RT doit être jailbreaké voici le lien du tutoriel :
+
+https://jwa4.gitbook.io/windows/tools/surface-rt-and-surface-2-jailbreak-usb
+
 Guide et klipperRT.img pour installer klipper,moonraker,fluidd,klipperscreen sur Microsoft Surface RT!
 
 #0 Lien de téléchargement : https://mega.nz/file/rFd0RI5A#DObPZuLvSGqfHWrcKi6RA80uPuVN4racOqrgYy_ruJQ
